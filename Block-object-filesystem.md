@@ -18,6 +18,4 @@ Thiết bị block storage thường được đính kèm và sử dụng đọc
 
 ## So sánh các dạng Storage
 
-| So sánh | File storage | Block storage | Object storage |
---------------
-| Đơn vị chuyển đổi | File | Blocks | Các object hay các metadata tùy chỉnh | 
+<img src="https://github.com/vjnkvt/Images/blob/master/sidebyside_comparison.png">
