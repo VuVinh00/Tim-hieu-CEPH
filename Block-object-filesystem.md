@@ -1,4 +1,4 @@
-## File system 
+## File-based Storage 
 
 **File-storage**: là hệ thống cấp bậc các file và folder được quản lý bởi hệ thống lưu trữ. Mỗi file đều có những thuộc tính riêng như : người tạo, người có thể truy cập, kích thước được lưu trữ thành metadata trong hệ thống. Khi ta cần truy cập đến tệp dữ liệu thì ta cần phải biết chính xác đường dẫn (path) để đi từ tập nguồn đến tập đích
 
